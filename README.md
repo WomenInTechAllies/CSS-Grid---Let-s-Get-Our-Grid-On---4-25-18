@@ -1,6 +1,10 @@
 # CSS-Grid---Let-s-Get-Our-Grid-On---4-25-18
 
-## Thank you ladies (and gentlemen) for having me! I had a great time and anytime we can share knowledge, we all get better so I hoped everybody learned something. 
+Our guest speaker was Todd Darling, Senior Consultant with Cardinal Solutions. Todd is a Web/Front End developer with 10+ years of experience in all areas of web development.
+
+A message from Todd ...
+
+### Thank you ladies (and gentlemen) for having me! I had a great time and anytime we can share knowledge, we all get better so I hoped everybody learned something. 
 
 Here is the link to the CSS course by Wes Bos that I highly recommend going through (it's free, so why not?):
 
